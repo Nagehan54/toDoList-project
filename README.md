@@ -11,6 +11,9 @@ Kullanıcı listelediği iş kalemlerinin eğer işi bittiyse üstünü çizebil
 
 <h3>Görüntü</h3>
 
+![](toDo-list.gif)
+
+
 
 
 
