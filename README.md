@@ -1,6 +1,6 @@
 # toDoList-project
 
-<h1 align='center'color='red'>JAVA SCRIPT PROJESİ</h1>
+<h1 align='center'>JAVA SCRIPT PROJESİ</h1>
 
 <h2>Amaç</h2>
 Bu projede kullanıcı;  yapmayı planladığı iş programını listeleyebilir. 
