@@ -11,7 +11,7 @@ Kullanıcı listelediği iş kalemlerinin eğer işi bittiyse üstünü çizebil
 
 <h3>Görüntü</h3>
 
-![](toDo-list.gif)
+<p><img='center' src='https://github.com/Nagehan54/toDoList-project/blob/main/toDo-list.gif' width='500' heigth='500'></p>
 
 
 
